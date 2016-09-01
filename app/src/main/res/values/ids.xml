@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="numTap"/>
+    <item type="id" name="incTap"/>
+    <item type="id" name="decTap"/>
+    <item type="id" name="targetSlider"/>
+    <item type="id" name="slider"/>
+    <item type="id" name="sliderTextbox"/>
+    <item type="id" name="speller"/>
+
+</resources>
